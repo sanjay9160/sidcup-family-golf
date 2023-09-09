@@ -725,3 +725,18 @@ footer img {
         left: -0rem;
     }
 }
+
+@media (max-width:353px) {
+    .carousel-text h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width:305px) {
+    html {
+        font-size: 9px;
+    }
+    .toggle {
+        margin-left: 85%;
+    }
+}
